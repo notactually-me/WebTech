@@ -1,0 +1,148 @@
+-----------task1-----------
+
+<?php
+  $l = 20;
+  $b = 10;
+  $area = $l*$b;
+  $perimeter = 2*($l + $b);
+
+  echo "Length: ", $l, "<br>";
+  echo "Width: ", $b, "<br>";
+  echo "Area: ", $area, "<br>";
+  echo "Perimeter: ",$perimeter;
+ ?>
+
+-----------task2-----------
+
+<?php
+  $price = 300;
+  $vat = 15;
+  $n_price = $price + ($price * ($vat/100));
+  echo "Normal price: ", $price, "<br>";
+  echo "Price with vat: ",$n_price;
+  
+ ?>
+-----------task3-----------
+<?php
+  $number = 44;
+  
+  echo "Provided Number: ", $number, "<br>";
+  if ($number % 2 == 0)
+  {
+  	echo $number, " is even";
+  }
+  else 
+  	echo $number, " is odd";
+  
+ ?>
+ ------task4-----------
+<?php
+  $number1 = 44;
+  $number3 = 87;
+  $number2 = 21;
+
+  
+  echo "Provided Numbers: ", $number1;
+  echo ", ", $number2;
+  echo ", ", $number3;
+
+  if ($number1 > $number2 && $number1 > $number3)
+  {
+	echo "<br>";
+	echo $number1, " is largest";
+  }
+
+  elseif ($number2 > $number1 && $number2 > $number3)
+  {
+	echo "<br>";
+	echo $number2, " is largest";
+  }
+
+  elseif ($number3 > $number2 && $number3 > $number1)
+  {
+	echo "<br>";
+	echo $number3, " is largest";
+  }
+  
+ ?>
+  ------task5-----------
+  <?php
+	
+echo "Odd numbers from 10 - 100: <br>"; 
+
+	for($i = 10 ; $i <= 100 ; $i++)
+	{
+		if ($i % 2 != 0)
+		{
+			echo $i, "<br>";
+		}
+	}
+
+?>
+------task6-----------
+<?php
+	
+	$a = [2,1,4,6];
+	$s = 6;
+	$bool = false;
+	
+	echo "The array is: [ ";
+	
+	for($i = 0; $i < count($a); $i++)
+	{
+		echo $a[$i], " ";
+	}
+	echo " ] <br>";
+	
+	echo "Element to be searched: ", $s;
+	
+	for($i = 0; $i < count($a); $i++)
+	{
+		if ($a[$i] == $s)
+		{
+			echo "<br>", $s, " was found on the ", $i, " index of the array.";
+			$bool = true;
+		}
+		
+	}
+	if($bool == false)
+			echo "<br>","The element was not found in the array";
+		
+?>
+------task7-----------
+<?php
+	$x = '*';
+	$n = 'A';
+	for ($i = 0; $i<3; $i++)
+	{
+		for ($j = 0; $j <= $i ; $j++)
+		{
+			echo $x;
+		}
+		echo "<br>";
+	}
+	echo "<br>";
+	echo "<br>";
+	
+	for ($i = 2; $i>=0; $i--)
+	{
+		for ($j = 0; $j <= $i ; $j++)
+		{
+			echo $j+1;
+		}
+		echo "<br>";
+	}
+	echo "<br>";
+	echo "<br>";
+	
+	for ($i = 0; $i<3; $i++)
+	{
+		for ($j = 0; $j <= $i ; $j++)
+		{
+			echo $n++;
+		}
+		echo "<br>";
+	}
+	
+?>
+------task8-----------
