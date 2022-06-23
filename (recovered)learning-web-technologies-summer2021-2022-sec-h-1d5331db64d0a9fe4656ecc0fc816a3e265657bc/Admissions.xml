@@ -1,0 +1,33 @@
+<students>
+    
+    <info>
+        <id> 23 </id>
+        <name> John Carter </name>
+        <addate> 
+            <day> 25 </day>
+            <month> 12 </month>
+            <year> 2015 </year> 
+        </addate>
+    </info>
+
+    <info>
+        <id> 29 </id>
+        <name> Bob Marshal </name>
+        <addate> 
+            <day> 13 </day>
+            <month> 01 </month>
+            <year> 1999 </year> 
+        </addate>
+    </info>
+    
+    <info>
+        <id> 35 </id>
+        <name> Clark Kent </name>
+        <addate> 
+            <day> 17 </day>
+            <month> 06 </month>
+            <year> 2005 </year> 
+        </addate>
+    </info>
+
+</students>
