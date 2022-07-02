@@ -1,0 +1,3 @@
+F-001|Sanders|Farmer|Male|0176827482|sandy@farmer.com|1967-01-10|12 years|3
+F-002|Windy|Farmer|Female|0176823452|win234@farmer.com|1984-04-20|30 years|2
+F-003|Crawford|Farmer|Female|0168237823|emily@farmer.com|1992-05-10|13 years|5

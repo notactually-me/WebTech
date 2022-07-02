@@ -1,0 +1,4 @@
+A-002|111|Sameen Abrar|ana@conda.com|01739274384|dhaka|2022-06-08|Male|Business Management|5||Inventory|IT|Finance
+4292|empty|abraca|ana@conda.com|01739274384|house 13, road 67, khilgaon, dhaka|2022-05-31|Male|Environmental Sciences|12||Technical|Management|Leadership
+9938|123456|No name|samen@ehs.com|12084729038|kalks, nsdjfps, jnfn. jnsadvjn, dhaka|2022-01-10|Female|Biology|19||Data|Leadership|Finance
+9736|mylife|Jahan|Jahan@admin.com|019826482|Uttara, sector 13, lake side road, dhaka, bangladesh|1975-01-17|Male|Marketing|35||Inventory|Technical|IT|Finance

@@ -1,0 +1,5 @@
+S-001|Sydney|Salesperson|Noakhali|Female|016345103|syd@sales.com|1992-07-24|13 years|Masters|Marketing
+S-002|Candice|Salesperson|Dhaka|Female|016479103|candy@sales.com|2000-12-03|2 years|Bachelors|Business
+S-003|Rick|Salesperson|Kurigram|Male|016345103|syd@sales.com|1982-04-26|13 years|Masters|Marketing
+S-004|Victor|Salesperson|Sylhet|Male|01649638|syd@sales.com|1994-06-13|13 years|Bachelors|IPE
+S-005|Monica|Salesperson|Sayedabad|Female|01723943|syd@sales.com|1984-05-24|13 years|Masters|BBA

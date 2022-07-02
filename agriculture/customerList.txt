@@ -1,0 +1,5 @@
+C-001|Sydney|Customer|Female|016345103|syd@sales.com|1992-07-24|10000
+C-002|Candice|Customer|Female|016479103|candy@sales.com|2000-12-03|28671
+C-003|Rick|Customer|Male|016345103|syd@sales.com|1982-04-26|90000
+C-004|Victor|Customer|Male|01649638|syd@sales.com|1994-06-13|672300
+C-005|Monica|Customer|Female|01723943|syd@sales.com|1984-05-24|23910

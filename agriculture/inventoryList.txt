@@ -1,0 +1,4 @@
+P-001|Wheat|40|Healthy|10000
+P-002|Maize|200|Healthy|10000
+P-003|Oat|150|Healthy|10000
+P-004|Barley|230|Healthy|10000
